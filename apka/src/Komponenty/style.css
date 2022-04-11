@@ -1,0 +1,104 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:ital,wght@1,300&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    background-color: #9be5f8;
+}
+
+.kontener{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    padding-top: 110px;
+}
+
+.prawastrona{
+flex-basis: 50%;
+width: 55%;
+text-align: center;
+color: black;
+position: fixed;
+top: 80px;
+right: 20px
+}
+
+.prawastrona img{
+    margin: 1.5rem;
+    height: 190px;
+    
+}
+
+
+.lewastrona{
+flex-basis: 50%;
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(250px, 0.6fr));
+grid-gap: 2.3rem;
+font-size: 12px;
+}
+
+.karta{
+    width: 250px;
+    background-color:#80bfff ;
+    box-shadow: 0 5px 5px rgba(0,0,0,1) ;
+    border-radius: 1.5rem;
+    padding: 0 1.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+    .buttons button {
+        outline: none;
+        border: none;
+        width: 180px;
+        height: 45px;
+        padding: 0.5 rem 0;
+        margin: 1rem;
+        font-size: 16px;
+        font-weight: bold;
+        background-color: #30A2FF;
+        color: white;
+        border-radius: 8px;
+        box-shadow: 0 5px 5px rgba(0,0,0,0.5) ;
+    
+}
+.prawastrona h1 {
+
+    letter-spacing: 1px;
+}
+.abilities {
+    width: 28%;
+    font-size: 23px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 1.5rem;
+}
+
+.abilities .group{
+    background-color: rgb(18, 7, 226);
+    color: white;
+    padding: 0.9rem;
+    font-size: 13px;
+    border-radius: 11px;
+}
+
+.stat{
+    margin-top: 1.5rem;
+    text-transform: capitalize;
+}
+
+.buttons {
+    display: flex;
+    height: 90px;
+
+}
+
