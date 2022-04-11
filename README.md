@@ -33,7 +33,7 @@ Aby otworzyć aplikacje, należy:
 
 ![strona_cala](https://user-images.githubusercontent.com/93713067/162802849-e5f9c095-3305-4fd9-bf1c-b01661378038.JPG)
 
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/93713067/162802870-a992eadf-30c8-4a79-a066-8079cab270c9.JPG">
+![strona_poke](https://user-images.githubusercontent.com/93713067/162802870-a992eadf-30c8-4a79-a066-8079cab270c9.JPG)
 
 # Status projektu
 
