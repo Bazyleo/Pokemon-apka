@@ -25,6 +25,8 @@ Aby otworzyć aplikacje, należy:
 * Pobrać katalog "apka"
 * Otworzyć folder "apka" w Visual Studio Code
 * W terminalu użyć komendy "npm start"
+** W terminalu użyć komendy "cd apka", aby wejść do katalogu głównego
+** W terminalu wpisać "npm install react-scripts --save" w celu dodania modułu startującego projekt
 * W przeglądarce włączy się strona, na której możemy kliknąć na poszczególne pokemony, sprawdzić ich statystki lub przewinąć na kolejne strony
 ```
 
