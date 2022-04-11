@@ -47,4 +47,4 @@ Statystyki każdej postaci mogłyby być bardziej opisane, na co pozwala API.
 
 # Kontakt 
 
-Możesz się ze mną skontaktować w sprawie projekt lub jeśli masz pytanie, napisz do mnie maila: bazyleeo@gmail.com
+Możesz się ze mną skontaktować w sprawie projektu lub jeśli masz pytanie, napisz do mnie maila: bazyleeo@gmail.com
