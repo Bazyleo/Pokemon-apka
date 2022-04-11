@@ -1,6 +1,6 @@
 # Spis treści
 
- [Opis aplikacji](#O-projekcie)
+* [Opis aplikacji](#O-projekcie)
 * [Technologie](#Technologie-wykorzystane)
 * [Wymagania](#Wymagania)
 * [Zrzuty ekranu](#Zrzuty-ekranu)
